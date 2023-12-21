@@ -1,0 +1,11 @@
+{
+    "root": "public",
+    "clean_urls": true,
+    "https_only": true,
+    "error page": "error.html",
+    "headers": {
+        "/**": {
+            "Accept-Control-Allow-Origin": "*"
+        }
+    }
+}
